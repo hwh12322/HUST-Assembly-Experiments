@@ -1,0 +1,42 @@
+﻿  Assembling 3.1.asm...
+3.1.asm(1): error A2008: syntax error : .
+3.1.asm(2): error A2008: syntax error : .
+3.1.asm(82): error A2008: syntax error : .
+3.1.asm(94): error A2008: syntax error : printf
+3.1.asm(96): error A2008: syntax error : scanf
+3.1.asm(97): error A2008: syntax error : scanf
+3.1.asm(105): error A2008: syntax error : printf
+3.1.asm(109): error A2008: syntax error : printf
+3.1.asm(114): error A2008: syntax error : printf
+3.1.asm(115): error A2008: syntax error : invoke
+3.1.asm(124): error A2008: syntax error : calcF
+3.1.asm(141): error A2008: syntax error : invoke
+3.1.asm(150): error A2008: syntax error : invoke
+3.1.asm(159): error A2008: syntax error : invoke
+3.1.asm(165): error A2008: syntax error : invoke
+3.1.asm(166): error A2008: syntax error : printf
+3.1.asm(167): error A2008: syntax error : scanf
+3.1.asm(170): error A2008: syntax error : invoke
+3.1.asm(172): warning A6001: no return from procedure
+3.1.asm(175): error A2008: syntax error : pushad
+3.1.asm(180): error A2008: syntax error : printf
+3.1.asm(181): error A2008: syntax error : printf
+3.1.asm(182): error A2008: syntax error : printf
+3.1.asm(183): error A2008: syntax error : printf
+3.1.asm(184): error A2008: syntax error : printf
+3.1.asm(190): error A2008: syntax error : popad
+3.1.asm(98): error A2229: cannot use labels and 32-bit addressing in the same expression
+3.1.asm(98): error A2229: cannot use labels and 32-bit addressing in the same expression
+3.1.asm(98): error A2006: undefined symbol : cor
+3.1.asm(99): error A2229: cannot use labels and 32-bit addressing in the same expression
+3.1.asm(99): error A2229: cannot use labels and 32-bit addressing in the same expression
+3.1.asm(99): error A2006: undefined symbol : cor
+3.1.asm(125): error A2006: undefined symbol : INFO
+3.1.asm(137): error A2229: cannot use labels and 32-bit addressing in the same expression
+3.1.asm(139): error A2006: undefined symbol : INFO
+3.1.asm(146): error A2229: cannot use labels and 32-bit addressing in the same expression
+3.1.asm(148): error A2006: undefined symbol : INFO
+3.1.asm(155): error A2229: cannot use labels and 32-bit addressing in the same expression
+3.1.asm(157): error A2006: undefined symbol : INFO
+3.1.asm(172): warning A6004: procedure argument or local not referenced : c
+E:\VS\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: 命令“ml64.exe /c /nologo /Zi /Fo"x64\Debug\3.1.obj" /W3 /errorReport:prompt  /Ta3.1.asm”已退出，返回代码为 1。

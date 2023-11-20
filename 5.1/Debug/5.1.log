@@ -1,0 +1,27 @@
+﻿  Assembling 5.1.asm...
+5.1.asm(1): error A2013: .MODEL must precede this directive
+5.1.asm(2): error A2119: language type must be specified
+5.1.asm(4): error A2034: must be in segment block
+5.1.asm(5): error A2034: must be in segment block
+5.1.asm(6): error A2034: must be in segment block
+5.1.asm(7): error A2013: .MODEL must precede this directive
+5.1.asm(9): error A2034: must be in segment block : start
+5.1.asm(10): error A2034: must be in segment block
+5.1.asm(11): error A2034: must be in segment block
+5.1.asm(12): error A2034: must be in segment block
+5.1.asm(13): error A2034: must be in segment block
+5.1.asm(14): error A2034: must be in segment block
+5.1.asm(15): error A2034: must be in segment block
+5.1.asm(16): error A2034: must be in segment block
+5.1.asm(18): error A2034: must be in segment block
+5.1.asm(19): error A2034: must be in segment block
+5.1.asm(20): error A2034: must be in segment block
+5.1.asm(21): error A2034: must be in segment block
+5.1.asm(22): error A2034: must be in segment block
+5.1.asm(23): error A2034: must be in segment block
+5.1.asm(24): error A2034: must be in segment block
+5.1.asm(26): error A2034: must be in segment block
+5.1.asm(27): error A2034: must be in segment block
+5.1.asm(28): error A2034: must be in segment block
+5.1.asm(29): fatal error A1010: unmatched block nesting : start
+E:\VS\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: 命令“ml.exe /c /nologo /Zi /Fo"Debug\5.1.obj" /W3 /errorReport:prompt  /Ta5.1.asm”已退出，返回代码为 1。
